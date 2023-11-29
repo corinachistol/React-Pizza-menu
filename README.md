@@ -1,3 +1,8 @@
+![image](https://github.com/corinachistol/React-Pizza-menu/assets/115491975/9b06c310-e9c2-4c59-bffe-af8fb0d681e1)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
